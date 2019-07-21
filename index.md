@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## The Passage Development Blog
 
-You can use the [editor on GitHub](https://github.com/daniellovell/passage-blog/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Logging the development of the VR Horror game, The Passage
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### First Post and Intro to the Game
 
-### Markdown
+![] (https://cdn.discordapp.com/attachments/550916478048665628/597290549502017556/Unity_2019-07-07_00-57-35.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I'd like to start this development blog off with a short intro to the game. The Passage is a VR horror game developed in Unity using SteamVR. The game is room-scale and is targeting a PC VR audience.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Contact
 
-1. Numbered
-2. List
+Reach out to me via email
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/daniellovell/passage-blog/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
