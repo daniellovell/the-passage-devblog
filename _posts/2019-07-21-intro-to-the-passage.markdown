@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "First Post and Intro to the Passage"
+title:  "First Post and Intro to The Passage"
 date:   2019-07-21 15:32:17 -0700
 categories: Devblog
 ---
